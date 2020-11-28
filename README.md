@@ -1,6 +1,6 @@
 # Reading-Projects-RSA-Algortihm-and-Convolutional-Coding
 
-#RSA Algorithm
+# RSA Algorithm
 
 The reading project was on public key encryption using “The Rivest-Shamir-Adleman (RSA) Algorithm for Public-Key Cryptography”. The aim of the project was to read the material provided and understand the mathematics of the algorithm within the stipulated short time and present the understanding to the professor.
 
@@ -11,7 +11,7 @@ There are certain cases under which the security of the system is unstable. Thes
 
 Guided by Dr V Arvind, Director of Institute of Mathematical Sciences, Tharamani, Chennai, India.
 
-#Convolutional Coding 
+# Convolutional Coding 
 
 The reading project was on Convolutional Coding. The aim of the project was to read the material provided and understand the mathematics of the algorithm within the stipulated short time and present the understanding to the professor. 
 
